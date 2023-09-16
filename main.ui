@@ -45,7 +45,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Administrator/Desktop/IMAGE_iP2SjlZhb_1690890042506.png</pixmap>
+     <pixmap>img/IMAGE_iP2SjlZhb_1690890042506.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -83,7 +83,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Administrator/Desktop/out.png</pixmap>
+     <pixmap>img/out.png</pixmap>
     </property>
    </widget>
    <widget class="Line" name="line">
