@@ -30,6 +30,7 @@ _（这段是作者的絮絮叨叨，不感兴趣可以跳过）_
 总之，这就是，我设计这个项目的初衷。
 
 ## 程序使用
+>由于“图床”的原因下面的图片加载可能会慢（）
 ### PC端程序
 PC段程序是使用Pyside2设计的图形交互程序。由于众所周知的，这个库的加载时间，打包成应用程序后将会慢到极致。
 
@@ -70,3 +71,5 @@ PC段程序是使用Pyside2设计的图形交互程序。由于众所周知的�
 ![](https://cdn-community.codemao.cn/47/community/d2ViXzMwMDFfNzkyODc1NV81NjQyODdfMTY5NDgzMTY3OTkzMF80ZmZkYmExMw.png)
 
 点击后将打开浏览器。
+
+### Android端程序
